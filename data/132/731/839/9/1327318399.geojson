@@ -111,8 +111,7 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675741,
-        1108692213
+        85675741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,7 +131,7 @@
     "wof:id":1327318399,
     "wof:lastmodified":1566581548,
     "wof:name":"Ban",
-    "wof:parent_id":1108692213,
+    "wof:parent_id":85675741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
